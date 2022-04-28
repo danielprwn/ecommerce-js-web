@@ -53,9 +53,4 @@ Otwórz drugi terminal.
 `$ npm start`
 
 
-6. Utwórz konto admina.
-
-http://localhost:5000/api/users/createadmin
-
-Wpisz email i hasło logowania admina.
 
