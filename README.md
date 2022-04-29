@@ -19,8 +19,8 @@ Uruchomienie aplikacji:
 1. Pobierz repozytrium
 $ git clone https://github.com/danielprwn/ecommerce-js-web.git
 
-2. Setup MongoDB
-Download and Install it from mongodb.com
+2. Skonfiguruj MongoDB
+Pobierz i zainstaluj mongodb.com
 
 3. Utwórz plik .env
 
